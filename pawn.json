@@ -1,0 +1,9 @@
+{
+	"user": "Southclaws",
+	"repo": "samp-virtual-canvas",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"Southclaws/samp-stdlib"
+	]
+}
